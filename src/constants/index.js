@@ -12,7 +12,7 @@ export const EXPERIENCES = [
     year: "June 2024 - August 2024",
     role: "Software Engineer Intern",
     company: "Ridge Security",
-    description: `Lorem Ipsum.`,
+    description: `Check resume until update.`,
     technologies: ["etc"],
     link: true,
     domain: "https://ridgesecurity.ai/",
@@ -21,7 +21,7 @@ export const EXPERIENCES = [
     year: "January 2024 - June 2024",
     role: "Frontend Developer",
     company: "NU DISC",
-    description: `Lorem Ipsum`,
+    description: `Check resume until update.`,
     technologies: ["etc"],
     link: true,
     domain: "https://sites.northwestern.edu/discnu/"
@@ -30,7 +30,7 @@ export const EXPERIENCES = [
     year: "September 2023 - June 2024",
     role: "Peer Mentor",
     company: "Northwestern",
-    description: `Lorem Ipsum`,
+    description: `Check resume until update.`,
     technologies: [],
   },
 ];
