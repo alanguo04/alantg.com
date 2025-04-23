@@ -8,7 +8,7 @@ export default defineConfig({
     rollupOptions: {
       input: {
         main: resolve(__dirname, 'index.html'),
-        forkhloe: resolve(__dirname, 'forkhloe/index.html'),
+        secretpage: resolve(__dirname, 'secretpage/index.html'),
       },
     },
   },
